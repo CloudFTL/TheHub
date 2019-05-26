@@ -1,5 +1,5 @@
 # TheHub
-The Unofficial App For PronHub 
+Deadass just a pronhun webview
 
 # Requirements 
 iOS 11-12
